@@ -1,3 +1,5 @@
 Teste de codigo Git
 
 Alteracao no codigo
+
+Linha 3 alterada
